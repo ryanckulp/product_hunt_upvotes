@@ -1,6 +1,8 @@
 # Product Hunt Upvote Downloader
 download a CSV of twitter handles who upvoted a featured product
 
+don't code? [use the web version](https://product-hunt-upvotes.herokuapp.com/).
+
 ## installation
 1. ```$ gem install hunting_season```
 
